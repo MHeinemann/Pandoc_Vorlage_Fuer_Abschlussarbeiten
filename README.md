@@ -1,5 +1,5 @@
 # Pandoc Markdown Vorlage für Seminar-/Bachelor-/Master-/Diplomarbeiten
-Hierbei handelt es sich um eine Vorlage zur Erstellung von Abschlussarbeiten mit Pandoc, die Textsprache ist Markdown.
+Hierbei handelt es sich um eine Vorlage zur Erstellung von Abschlussarbeiten mit Pandoc, die Auszeichnungssprache ist Markdown.
 Für die Erstellung dieser Vorlage wurden die folgenden drei Pandoc- und Latexprojektvorlagen genutzt:
 
 * [Dan Prince | academic-pandoc](https://github.com/danprince/academic-pandoc.git)

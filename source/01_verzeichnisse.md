@@ -7,6 +7,7 @@
 \pagebreak
 
 \listoftables
+<!-- \lstlistoflistings -->
 \pagebreak
 
 \pagenumbering{arabic}

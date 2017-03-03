@@ -8,17 +8,16 @@ BIBFILE=$(INPUTDIR)/references.bib
 OUTPUTFILE = $(OUTPUTDIR)/hausarbeit.pdf
 
 help:
-	@echo ' 																	  '
-	@echo 'Makefile for Markdown academic paper                                   '
-	@echo '                                                                       '
+	@echo ' 																	                                    '
+	@echo 'Makefile für Pandoc Markdown Vorlage                                   '
+	@echo 'für Seminar-/Bachelor-/Master-/Diplomarbeiten                          '
+	@echo ' 																	                                    '
+	@echo 'Autor: Michael Heinemann 																	            '
+	@echo ' 																	                                    '
 	@echo 'Usage:                                                                 '
 	@echo '   make pdf                         generate a PDF file  			  '
 	@echo '                                                                       '
-	@echo ' 																	  '
-	@echo ' 																	  '
-	@echo 'get local templates with: pandoc -D latex/html/etc	  				  '
-	@echo 'or generic ones from: https://github.com/jgm/pandoc-templates		  '
-	@echo '                                                                       '
+	@echo ' 																	  																	'
 
 pdf:
 	pandoc "$(INPUTDIR)"/*.md \

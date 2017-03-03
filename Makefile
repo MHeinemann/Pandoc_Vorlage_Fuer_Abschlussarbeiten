@@ -26,7 +26,7 @@ pdf:
 	-H "$(STYLEDIR)/preamble.tex" \
 	--template="$(TEMPLATEDIR)/default.tex" \
 	--include-before="$(INPUTDIR)/titlepage.tex" \
-	--include-after="$(INPUTDIR)/titlepage.tex" \
+	--include-after="$(INPUTDIR)/eiderkl.tex" \
 	--bibliography="$(BIBFILE)" 2>pandoc.log \
 	--csl="$(STYLEDIR)/deutsche-gesellschaft-fur-psychologie.csl" \
 	--highlight-style=pygments \
@@ -34,9 +34,9 @@ pdf:
 	-V lang=de-DE \
 	-V papersize=A4 \
 	-V fontsize=12pt \
-	-V mainfont=Arial \
-	-V sansfont=Arial \
-	-V monofont=Arial \
+	-V mainfont=LiberationSerif \
+	-V sansfont=LiberationSans \
+	-V monofont=LiberationMono \
 	-V linestretch=1.5 \
 	-N \
 	--latex-engine=xelatex \

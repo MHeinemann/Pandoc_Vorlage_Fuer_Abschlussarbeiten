@@ -27,7 +27,7 @@ sudo apt-get install msttcorefonts
 ## Hilfestellung für die Markdownsyntax   
 <http://daringfireball.net/projects/markdown/syntax#img>  
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>  
-
-
+  
+  
 ![CC Lizens](by-sa.png)  
 Pandoc Vorlage für Abschlussarbeiten by Michael Heinemann is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).

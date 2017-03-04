@@ -1,6 +1,6 @@
 # Pandoc Markdown Vorlage für Seminar-/Bachelor-/Master-/Diplomarbeiten
 Hierbei handelt es sich um eine Vorlage zur Erstellung von Abschlussarbeiten mit Pandoc, die Auszeichnungssprache ist Markdown.  
-Für die Erstellung dieser Vorlage wurden die folgenden drei Pandoc- und Latexprojektvorlagen genutzt:
+Die folgenden drei drei Pandoc- und Latexprojekt dienten als Vorlage für dieses Projekt:
 
 * [Dan Prince | academic-pandoc](https://github.com/danprince/academic-pandoc.git)
 * [Tom Pollard | phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown)

@@ -2,7 +2,7 @@
 
 ## Version 1
 
-Table: Problemtypen bei Problem-based Learning \label{pbl_prob}
+Table: Problemtypen bei Problem-based Learning \label{tab:pbl_prob}
 
 +------------------------------+--------------------------+--------------+
 | Problemtyp                   | Ausgangssituation        | Aufforderung |
@@ -34,7 +34,7 @@ Table: Problemtypen bei Problem-based Learning \label{pbl_prob}
 
 ## Version 2
 
-Table: Die Siebensprung-Methode \label{siebensprung}
+Table: Die Siebensprung-Methode \label{tab:siebensprung}
 
 ---------------------------------------------------------------------------
 7 Schritte nach dem *McMASTER*-Vorbild    7 Schritte nach *WEBER* 2007

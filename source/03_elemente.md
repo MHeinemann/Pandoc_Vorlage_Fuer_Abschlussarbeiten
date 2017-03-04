@@ -34,17 +34,18 @@ Quote break.
 
 ## Dokumente einfügen
 
-![Ein PNG Bild{fig:unique-name}](source/img/ausfall.png)
+![Ein PNG Bild\label{fig:png_bild}](source/img/ausfall.png)
+
+\pagebreak
 
 ![Ein PDF Bild](source/img/some-figure.pdf)
 
-It's not enforced, but it's good practice to prefix your labels with `lst:` and `fig:`. This will help prevent naming collisions.\ref{fig:unique-name}.
-
-
 ## Referenzen
-Ausgehend von den Problemtypen in *Tabelle \ref{pbl_prob}* handelt es sich ...
+Ausgehend von den Problemtypen in *Tabelle \ref{tab:pbl_prob}* handelt es sich ...
 
-Ausgehend von den Siebensprung in *Tabelle \ref{siebensprung}* handelt es sich ...
+Ausgehend von den Siebensprung in *Tabelle \ref{tab:siebensprung}* handelt es sich ...
+
+Eine Verlinkung zur *Abbildung \ref{fig:png_bild}*
 
 \pagebreak
 

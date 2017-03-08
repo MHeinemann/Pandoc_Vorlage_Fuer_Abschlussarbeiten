@@ -34,16 +34,14 @@ Quote break.
 
 ## Dokumente einfügen
 
-![Ein PNG Bild\label{fig:png_bild}](source/img/ausfall.png)
+![Ein PNG Bild\label{fig:png_bild}](source/img/graph.png)
 
 \pagebreak
 
-![Ein PDF Bild](source/img/some-figure.pdf)
-
 ## Referenzen
-Ausgehend von den Problemtypen in *Tabelle \ref{tab:pbl_prob}* handelt es sich ...
+Ausgehend von dem Lorem ipsum Text in *Tabelle \ref{tab:lorem}* handelt es sich ...
 
-Ausgehend von den Siebensprung in *Tabelle \ref{tab:siebensprung}* handelt es sich ...
+Ausgehend von den Siebensprung in *Tabelle \ref{tab:ipsum}* handelt es sich ...
 
 Eine Verlinkung zur *Abbildung \ref{fig:png_bild}*
 

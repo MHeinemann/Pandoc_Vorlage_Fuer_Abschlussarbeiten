@@ -2,60 +2,47 @@
 
 ## Version 1
 
-Table: Problemtypen bei Problem-based Learning \label{tab:pbl_prob}
+Table: Lorem ipsum Text \label{tab:lorem}
 
 +------------------------------+--------------------------+--------------+
-| Problemtyp                   | Ausgangssituation        | Aufforderung |
+| Head 1                       | Head 2                   | Head 3       |
 +==============================+==========================+==============+
-| Typ 1: Erklärungs-Problem    | Sachverhalte oder        | Erkläre      |
-|                              | Phänomene müssen erklärt |              |
-|                              | werden                   |              |
+| Tabellenelement_1            | Lorem ipsum dolor sit    | Erkläre      |
+|                              | amet, consetetur         |              |
+|                              | sadipscing elitr,        |              |
 +------------------------------+--------------------------+--------------+
-| Typ 2: Diagnose-Problem      | Eine Abweichung vom Soll | Korrigiere   |
-|                              | -Zustand wird            |              |
-|                              | festgestellt und muss    |              |
-|                              | behoben werden           |              |
+| Tabellenelement_2            | sed diam nonumy eirmod   | Korrigiere   |
+|                              | tempor invidunt ut labore|              |
+|                              | et dolore magna aliquyam |              |
+|                              | erat,                    |              |
 +------------------------------+--------------------------+--------------+
-| Typ 3: Entscheidungs-Problem | Eine Option ist aus      | Entscheide   |
-|                              | Alternativen zu wählen   |              |
-|                              | (inkl. moralisches       |              |
-|                              | Dilemma)                 |              |
+| Tabellenelement_3            | sit amet, consetetur     | Entscheide   |
+|                              | dolores et ea rebum.     |              |
+|                              | Stet clita kasd          |              |
+|                              | gubergren,               |              |
 +------------------------------+--------------------------+--------------+
-| Typ 4: Strategie-Problem     | Vage vorgegebene Ziele   | Steuere      |
-|                              | müssen von einem         |              |
-|                              | Istzustand erreicht      |              |
-|                              | werden                   |              |
-+------------------------------+--------------------------+--------------+
-| Typ 5:  Design-Problem       | Vom offenem Istzustand   | Entwurf      |
-|                              | wird eine kreative       |              |
-|                              | Erzeugung verlangt       |              |
-+------------------------------+--------------------------+--------------+
+
 
 
 ## Version 2
 
-Table: Die Siebensprung-Methode \label{tab:siebensprung}
+Table: Lorem ipsum Text v2 \label{tab:ipsum}
 
----------------------------------------------------------------------------
-7 Schritte nach dem *McMASTER*-Vorbild    7 Schritte nach *WEBER* 2007
---------------------------------------    ---------------------------------
-(1) Problemkonfrontation/Fallvorstellung  (1) Begriffe klären
+--------------------------------------------------------------------------
+Head 1                  Head 2                        Head 3
+---------------------   ---------------------------   --------------------
+Tabellenelement_1       Lorem ipsum dolor sit amet,   Erkläre
+                        consetetur sadipscing elitr,
+                        sed diam nonumy eirmod
 
-(2) Problemdefinition und Problemanalyse  (2) Problem bestimmen
+Tabellenelement_2       Lorem ipsum dolor sit amet,   Korrigiere
+                        consetetur sadipscing elitr,
+                        sed diam nonumy eirmod
 
-(3) Hypothesenbildung                     (3) Problem analysieren
+Tabellenelement_3       Lorem ipsum dolor sit amet,   Entscheide
+                        consetetur sadipscing elitr,
+                        sed diam nonumy eirmod
+--------------------------------------------------------------------------
 
-(4) Ordnen der Hypothesen und             (4) Erklärung ordnen
-Lernzielformulierung
-
-(5) Eigenstudium                          (5) Lernfragen formulieren
-
-(6) Durcharbeiten und Synthese der        (6) Informationen beschaffen (Selbststudium)
-Studienergebnisse in der Gruppe
-
-(7) Arbeitsrückschau und Sicherung des    (7) Informationen austauschen
-Lernertrags
-
----------------------------------------------------------------------------
 
 \pagebreak

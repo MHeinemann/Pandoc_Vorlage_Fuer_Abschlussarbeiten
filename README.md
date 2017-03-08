@@ -1,6 +1,6 @@
 # Pandoc Markdown Vorlage für Seminar-/Bachelor-/Master-/Diplomarbeiten
 Hierbei handelt es sich um eine Vorlage zur Erstellung von Abschlussarbeiten mit Pandoc, die Auszeichnungssprache ist Markdown.  
-Die folgenden drei drei Pandoc- und Latexprojekt dienten als Vorlage für dieses Projekt:
+Ein Dank geht an die folgenden drei Pandoc- und Latexprojekt die bei der Erstellung als Vorlage gedient haben:
 
 * [Dan Prince | academic-pandoc](https://github.com/danprince/academic-pandoc.git)
 * [Tom Pollard | phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown)
@@ -27,7 +27,4 @@ sudo apt-get install msttcorefonts
 ## Hilfestellung für die Markdownsyntax   
 <http://daringfireball.net/projects/markdown/syntax#img>  
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>  
-  
-  
-![CC Lizens](by-sa.png)  
-Pandoc Vorlage für Abschlussarbeiten by Michael Heinemann is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+<http://rmarkdown.rstudio.com/authoring_pandoc_markdown.html#pandoc_markdown>

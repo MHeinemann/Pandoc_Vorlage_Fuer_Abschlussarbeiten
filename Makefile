@@ -25,7 +25,8 @@ pdf:
 	-H "$(STYLEDIR)/preamble.tex" \
 	--template="$(TEMPLATEDIR)/default.tex" \
 	--include-before="$(INPUTDIR)/00_titlepage.tex" \
-	--include-after="$(INPUTDIR)/99_eidesstaatliche.tex" \
+	--include-after="$(INPUTDIR)/98_appendix.tex" \
+	--include-after-body="$(INPUTDIR)/99_eidesstaatliche.tex" \
 	--bibliography="$(BIBFILE)" 2>pandoc.log \
 	--csl="$(STYLEDIR)/deutsche-gesellschaft-fur-psychologie.csl" \
 	--highlight-style=pygments \

@@ -18,7 +18,7 @@ sudo apt install pandoc-citeproc
 sudo apt-get install texlive-full
 ```
 
-**Schriftenpackete**
+**Schriftenpakete**
 ```bash
 sudo apt-get install lmodern
 sudo apt-get install msttcorefonts

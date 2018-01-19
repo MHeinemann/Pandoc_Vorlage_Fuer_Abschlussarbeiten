@@ -31,6 +31,7 @@ pdf:
 	--csl="$(STYLEDIR)/deutsche-gesellschaft-fur-psychologie.csl" \
 	--highlight-style=pygments \
 	--listings \
+	--metadata link-citations=true \
 	-V lang=de-DE \
 	-V papersize=A4 \
 	-V fontsize=12pt \

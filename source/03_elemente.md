@@ -20,6 +20,13 @@ Zitatsammlung:
 (vergleich dazu @heise oder @t3n)  
 [vgl. @hattie_lernen_2013, S. 33-35; außerdem @walker_problem_2009, S. 6 f.]
 
+Zitat ohne Autor  
+Hattie sagte bla bla [-@hattie_lernen_2013]
+
+Name des Autors mit Jahr in Klammern  
+@hattie_lernen_2013 sagte einmal bla bla bla
+
+
 ## Fußnote
 Text mit Fußnote.[^1]  
 Text mit Fußnote.[^2]

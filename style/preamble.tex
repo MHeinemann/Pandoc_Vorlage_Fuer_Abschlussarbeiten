@@ -7,10 +7,31 @@
 %\usepackage{sectsty}
 
 % Set margins
-\usepackage[top=2.5cm,bottom=2.5cm,left=4cm,right=2cm]{geometry}
+\usepackage[top=2.5cm,bottom=2.5cm,left=4cm,right=2.5cm]{geometry}
 
-%automatische Silbentrennung von Worten mit Umlauten
+% automatische Silbentrennung von Worten mit Umlauten
 %\usepackage[T1]{fontenc}
 
-%Punkt anstelle von Doppelpunkt bei Abbildungen- und Tabellentiteln
+% Punkt anstelle von Doppelpunkt bei Abbildungen- und Tabellentiteln
 \usepackage[labelsep=period]{caption}
+
+% Anfuehrungszeichen aendern
+\usepackage{csquotes}
+
+% PDF einbindung im Anhang
+\usepackage[final]{pdfpages}
+\includepdfset{pagecommand={}}
+
+% Grafiken werden an der Position fixiert
+\usepackage{graphicx}
+\usepackage{float}
+\floatplacement{figure}{H}
+
+\usepackage{helvet}
+
+% Help with long Links 
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}
+
+% pagebreak avoid
+%\raggedbottom

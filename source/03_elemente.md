@@ -43,7 +43,12 @@ Quote break.
 
 ![Ein PNG Bild\label{fig:png_bild}](source/img/graph.png)
 
-\pagebreak
+\begin{figure}
+  \includegraphics[width=\textwidth,keepaspectratio]{source/img/graph.png}
+  \caption[Ein Beispielbild mit Quellenangabe]{Ein Beispielbild. Eine unbekannte Quelle von Max Mustermann, 2013, \textit{Nicht in einem Buch zu finden}, 3, S. 110.}
+  \label{fig:pp_test}
+\end{figure}
+
 
 ## Referenzen
 Ausgehend von dem Lorem ipsum Text in *Tabelle \ref{tab:lorem}* handelt es sich ...
@@ -52,8 +57,10 @@ Ausgehend von den Siebensprung in *Tabelle \ref{tab:ipsum}* handelt es sich ...
 
 Eine Verlinkung zur *Abbildung \ref{fig:png_bild}*
 
-\pagebreak
+Ein weitere Verlinkung zur *Abbildung \ref{fig:pp_test}*
 
 [^1]: Diese Feststellung basiert auf vielseitigen Beobachtungen und Befragungen im Orientierungspraktikum sowie dem Kernpraktikum.
 
 [^2]: Dies ist eine zweite Fußnote mit möglichen Ergänzungen.
+
+\pagebreak
